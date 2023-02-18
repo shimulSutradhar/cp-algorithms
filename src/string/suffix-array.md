@@ -417,3 +417,5 @@ $$\sum_{i=0}^{n-1} (n - p[i]) - \sum_{i=0}^{n-2} \text{lcp}[i] = \frac{n^2 + n}{
 * [Codeforces - Forbidden Indices](http://codeforces.com/contest/873/problem/F)
 * [Codeforces - Tricky and Clever Password](http://codeforces.com/contest/30/problem/E)
 * [LA 6856 - Circle of digits](https://icpcarchive.ecs.baylor.edu/index.php?option=onlinejudge&page=show_problem&problem=4868)
+* [LightOJ - Aladdin and the Magical Lamp](https://lightoj.com/problem/aladdin-and-the-magical-lamp)
+* [LightOJ - Substring Frequency (II)](https://lightoj.com/problem/substring-frequency-ii)
